@@ -1,0 +1,10 @@
+﻿{
+  "PluginID": "d99c702e39b44be5a9e49983ff0f4fff",
+  "Name": "DeepLX",
+  "Description": "DeepLX plugin for stranslate",
+  "Author": "zggsong",
+  "Version": "1.0.0",
+  "Website": "https://github.com/STranslate/STranslate.Plugin.Translate.DeepLX",
+  "ExecuteFileName": "STranslate.Plugin.Translate.DeepLX.dll",
+  "IconPath": "icon.png"
+}

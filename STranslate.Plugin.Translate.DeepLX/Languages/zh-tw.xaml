@@ -1,0 +1,11 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="STranslate_Plugin_Translate_DeepLX_Url">地址</sys:String>
+    <sys:String x:Key="STranslate_Plugin_Translate_DeepLX_Token">令牌</sys:String>
+    <sys:String x:Key="STranslate_Plugin_Translate_DeepLX_Token_Placeholder">請輸入您的令牌</sys:String>
+    <sys:String x:Key="STranslate_Plugin_Translate_DeepLX_Token_Description">請輸入您的 DeepLX 令牌。若沒有令牌，請留空。</sys:String>
+
+</ResourceDictionary>
